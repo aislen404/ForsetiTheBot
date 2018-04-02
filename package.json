@@ -1,0 +1,29 @@
+{
+  "name": "forsetithebot",
+  "version": "1.0.0",
+  "description": "First practice about an easy way to make a bot in telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "testea",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aislen404/ForsetiTheBot.git"
+  },
+  "keywords": [
+    "telegram",
+    "javascript"
+  ],
+  "author": "aislen404",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/aislen404/ForsetiTheBot/issues"
+  },
+  "homepage": "https://github.com/aislen404/ForsetiTheBot#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
